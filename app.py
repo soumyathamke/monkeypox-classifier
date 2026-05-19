@@ -19,7 +19,7 @@ st.set_page_config(
 # ── Load model (cached so it only loads once) ─────────────────────────────────
 @st.cache_resource
 def load_model():
-    import tensorflow as tf
+    import tf_keras as tf
     model_path = "models/monkeypox_classifier.h5"
     if not os.path.exists(model_path):
         return None
