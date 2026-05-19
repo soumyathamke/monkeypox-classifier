@@ -12,6 +12,7 @@ During the 2022 monkeypox outbreak, clinical image data was extremely scarce and
 
 ## Demo
 
+<img width="516" height="504" alt="image" src="https://github.com/user-attachments/assets/887a0ff5-0075-476d-97ee-991ca660df80" />
 
 
 > Feed a skin lesion image → model returns class prediction with confidence score
